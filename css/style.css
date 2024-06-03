@@ -220,7 +220,7 @@ img {
         product area start
     ================================ */
 .gallery-content {
-    padding: 10px 0;
+    padding: 15px 0;
     background-color: #fff;
     border: 1px solid #eee;
 }
@@ -279,7 +279,7 @@ img {
 }
 
 .product-dec {
-    padding: 30px;
+    padding: 15px;
     background-color: #fff;
     border: 1px solid #eee;
 }
@@ -319,7 +319,7 @@ img {
 
 section.tab-section {
     display: none;
-    padding: 40px 45px;
+    padding: 15px 0;
     color: #1a1a1a;
     overflow: hidden;
     border: 1px solid #ddd;
